@@ -13,6 +13,6 @@ Sorteio de aleatório: O Nome de um amigo vai ser sorteado aleatoriamente.
 - Agora só começar a adicionar nomes na lista e sortear seus amigos!
 
 # Tecnologias
-HTML5
-CSS
-JavaScript
+- HTML5
+- CSS
+- JavaScript
