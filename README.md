@@ -12,6 +12,7 @@ Sorteio de aleatório: O Nome de um amigo vai ser sorteado aleatoriamente.
 - Abra o arquivo "index.html" no navegador de sua preferência
 - Agora só começar a adicionar nomes na lista e sortear seus amigos!
 
-## Tecnologias
+# Tecnologias
 HTML5
 CSS
+JavaScript
