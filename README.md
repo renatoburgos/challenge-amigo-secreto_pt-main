@@ -15,4 +15,3 @@ Sorteio de aleatório: O Nome de um amigo vai ser sorteado aleatoriamente.
 ## Tecnologias
 HTML5
 CSS
-JavaScript
